@@ -20,3 +20,4 @@ The focus is on **networking, security boundaries, and real-world troubleshootin
 - IAM role + AWS Systems Manager (no SSH)
 
 Traffic flow:
+![](screenshots/alb-502-bad-gateway.png)
